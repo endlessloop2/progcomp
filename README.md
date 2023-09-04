@@ -1,2 +1,4 @@
-# progcomp
-Repositorio con mis soluciones a problemas de progcomp y relacionados
+# Programación Competitiva
+Repositorio con mis soluciones a problemas de programación competitiva,
+y otros códigos y notas relacionados.
+
